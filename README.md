@@ -1,0 +1,1 @@
+Desenvolvimento de sistema de extrusão de polímeros especiais, em pellets, por compressão com embolo roscado em temperaturas de até 500c em parceria com Professor Eduardo Beker do Departamento de Engenharia de Materiais da UFSCar.
